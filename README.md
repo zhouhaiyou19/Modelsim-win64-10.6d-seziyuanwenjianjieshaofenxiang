@@ -1,0 +1,1 @@
+# Modelsim-win64-10.6d-seziyuanwenjianjieshaofenxiang
